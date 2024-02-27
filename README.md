@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Chu Bảo Minh
+* ID: BI12-281
 * Group ID: *Your Group ID here*
 
